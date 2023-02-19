@@ -2,13 +2,11 @@
 title: 'North Macedonia'
 subtitle: 'snakes snakes snakes!'
 date: 2019-05-30 00:00:00
-description: Photographying the paradice of North Macedonia.
+description: photographing the paradice of North Macedonia.
 featured_image: '/images/2019-north-macedonia/01.jpg'
 ---
 
 ![](/images/2019-north-macedonia/01.jpg)
-
-> “SNAKE SNAKE SNAKE"
 
 ![](/images/2019-north-macedonia/02.jpg)
 

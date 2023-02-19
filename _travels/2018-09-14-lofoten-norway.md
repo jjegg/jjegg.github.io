@@ -1,8 +1,8 @@
 ---
-title: 'Lofoten'
-subtitle: 'Norway'
+title: 'Lofoten, Norway'
+subtitle: 'autumn adventures'
 date: 2018-09-14 00:00:00
-description: Roaming and photographying the natural beauty and wildlife of Lofoten Norway.
+description: Roaming and photographing the natural beauty and wildlife of Lofoten Norway.
 featured_image: '/images/2018-lofoten-norway/16.jpg'
 ---
 

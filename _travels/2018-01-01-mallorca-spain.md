@@ -2,7 +2,7 @@
 title: 'Mallorca'
 subtitle: 'Spain'
 date: 2018-01-01 00:00:00
-description: Roaming and photographying the natural beauty and wildlife of mallorca Spain.
+description: Roaming and photographing the natural beauty and wildlife of mallorca Spain.
 featured_image: '/images/2018-mallorca-spain/01.jpg'
 ---
 

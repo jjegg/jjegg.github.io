@@ -1,6 +1,6 @@
 ---
 title: 'Faroe Islands'
-subtitle: 'Faroe Islands'
+subtitle: 'nature, whales, camping'
 date: 2018-09-21 00:00:00
 description: Roaming and photographing the natural beauty and wildlife of Faroe Islands.
 featured_image: '/images/2018-faroe-islands/puffins/01.jpg'
@@ -11,8 +11,6 @@ featured_image: '/images/2018-faroe-islands/puffins/01.jpg'
 ![](/images/2018-faroe-islands/puffins/02.jpg)
 
 ![](/images/2018-faroe-islands/puffins/03.jpg)
-
-Faroese and whales
 
 <div class="gallery" data-columns="2">
 	<img src="/images/2018-faroe-islands/whale/01.jpg">

@@ -1,14 +1,12 @@
 ---
-title: 'Vieques Puerto Rico'
+title: 'Vieques, Puerto Rico'
 subtitle: 'Cockadoodadoo!'
 date: 2018-12-23 00:00:00
-description: Photographying the paradice of Vieques Puerto Rico.
+description: photographing the paradice of Vieques Puerto Rico.
 featured_image: '/images/2018-vieques/01.jpg'
 ---
 
 ![](/images/2018-vieques/01.jpg)
-
-> “it's paradice”
 
 ![](/images/2018-vieques/02.jpg)
 

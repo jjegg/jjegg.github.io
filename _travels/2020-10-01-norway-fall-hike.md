@@ -1,12 +1,10 @@
 ---
-title: 'A fall hike in Eggedal Norway'
-subtitle: 'fall hikes'
+title: 'Eggedal, Norway'
+subtitle: 'an autumn hike'
 date: 2020-10-01 00:00:00
 description: Hiking in Eggedal Norway overlooking the purple and pink blueberry bushes, yellow trees, and still water.
 featured_image: '/images/2020-fall-hike/03.jpg'
 ---
-
-> hiking on the burgundy Norwegian mountains in beautiful weather
 
 - hike link [https://goo.gl/maps/E726itHojksNbwuv7](https://goo.gl/maps/E726itHojksNbwuv7)
 

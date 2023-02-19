@@ -1,15 +1,12 @@
 ---
-title: 'Salt Lake City'
-subtitle: 'Wild Wild West'
+title: 'Salt Lake City, Utah'
+subtitle: 'The Wild Wild West'
 date: 2020-03-30 00:00:00
-description: Roaming and photographying the natural beauty and wildlife of western USA.
+description: Roaming and photographing the natural beauty and wildlife of western USA.
 featured_image: '/images/2020-slc/01.jpg'
 ---
 
 ![](/images/2020-slc/01.jpg)
-
-
-> “As a cowboy would say, never approach a bull from the front, a horse from the rear, or a fool from any direction.”
 
 <div class="gallery" data-columns="2">
 	<img src="/images/2020-slc/02.jpg">
