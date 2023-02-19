@@ -15,7 +15,7 @@
 		<!-- <p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p> -->
 
 		<div class="footer__copyright">
-			<span>© {{ 'now' | date: "%Y" }} <a href="https://www.instagram.com/jonnygrifff" target="_blank">instagram/{{ site.data.settings.basic_settings.site_title }}</a> </span>
+			<span>© <script>document.write(new Date().getFullYear())</script> <a href="https://www.instagram.com/jonnygrifff" target="_blank">instagram/{{ site.data.settings.basic_settings.site_title }}</a> </span>
 		</div>
 
 		{% include socials.html %}
