@@ -8,9 +8,6 @@ featured_image: '/images/2019-svalbard/01.jpg'
 
 ![](/images/2019-svalbard/01.jpg)
 
-
-> “Exploring the northern most point in Norway.”
-
 ![](/images/2019-svalbard/02.jpg)  
 
 ![](/images/2019-svalbard/03.jpg)  
