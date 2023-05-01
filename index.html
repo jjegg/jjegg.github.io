@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jonnathan Griffin
-description: Jonnathan Griffin is a photographer based in Oslo Norway who focuses on landscape and nature photography.
+title: Jonny Griffin
+description: Jonny Griffin is a photographer based in Oslo Norway who focuses on landscape and nature photography.
 featured_image: /images/jonny.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Favorites
-subtitle: Jonnathan Griffin's favorite photos
-description: Jonnathan Griffin is a photographer based in Oslo, Norway.
+subtitle: Jonny Griffin's favorite photos
+description: Jonny Griffin is a photographer based in Oslo, Norway.
 featured_image: /images/2019-svalvard/01.jpg
 ---
 

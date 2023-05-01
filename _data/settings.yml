@@ -22,7 +22,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Jonnathan Griffin; Landscape and travel photographer based in Oslo, Norway
+  footer_tagline: Jonny Griffin; Landscape and travel photographer based in Oslo, Norway
 
 grid_settings:
   overlay_opacity: 0.1

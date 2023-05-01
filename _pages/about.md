@@ -1,6 +1,6 @@
 ---
-title: About; Jonnathan Griffin
-subtitle: Jonnathan Griffin is a travel and landscape photographer based in Oslo, Norway.
+title: About; Jonny Griffin
+subtitle: Jonny Griffin is a travel and landscape photographer based in Oslo, Norway.
 description: A photographer based in Oslo, Norway.
 featured_image: /images/demo/demo-landscape.jpg
 ---

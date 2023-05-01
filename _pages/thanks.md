@@ -1,7 +1,7 @@
 ---
 title: Thank you
 subtitle: Your message was sent successfully.
-description: Jonnathan Griffin is a photographer based in Oslo, Norway.
+description: Jonny Griffin is a photographer based in Oslo, Norway.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
