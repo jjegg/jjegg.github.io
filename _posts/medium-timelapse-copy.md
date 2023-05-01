@@ -1,12 +1,9 @@
----
-title: 'timelapse'
-date: 2023-12-30 00:00:00
-description: This page describes how to do a timelapse with ffmpeg.
-featured_image: '/images/2023-nyc/08.jpg'
----
-<!-- 
-> medium-to-markdown@0.0.3 convert
-> node index.js https://medium.com/@sekhar.rahul/creating-a-time-lapse-video-on-the-command-line-with-ffmpeg-1a7566caf877 -->
+A post on how to create a timelapse video with ffmpeg. This was enspirted by [![Rahul Sekhar](https://miro.medium.com/v2/resize:fill:96:96/0*hRdtGMTFoDbj6WGd.).
+
+```
+medium-to-markdown@0.0.3 convert
+node index.js https://medium.com/@sekhar.rahul/creating-a-time-lapse-video-on-the-command-line-with-ffmpeg-1a7566caf877
+```
 
 [![Rahul Sekhar](https://miro.medium.com/v2/resize:fill:96:96/0*hRdtGMTFoDbj6WGd.)
 
