@@ -54,3 +54,16 @@ ffmpeg -framerate 30 -pattern_type glob -i "timelapse01/*.jpg" -s:v 3840x2160 -c
 ❯❯❯ ffmpeg -framerate 30 -pattern_type glob -i "*.jpg" -s:v 2160x3840 -c:v libx264 -crf 17 -pix_fmt yuv420p my-timelapse-prores.mp4
 ❯❯❯ ffmpeg -i my-timelapse-prores.mp4 -filter:v "setpts=5.0\*PTS" timelapse-line-prores-final.mp4
 ```
+
+
+## Create a timelapse slow (portrait orientation) + blur effect for a fiarytail look
+
+```
+❯❯❯ cd '/Volumes/Kingston Sv/2023-03-bodo/FINAL/timelapse-line2'
+❯❯❯ ffmpeg -framerate 30 -pattern_type glob -i "*.jpg" -s:v 2160x3840 -c:v libx264 -crf 17 -pix_fmt yuv420p my-timelapse-prores.mp4
+❯❯❯ ffmpeg -i my-timelapse-prores.mp4 -vf "minterpolate='mi_mode=mci:mc_mode=aobmc:vsbmc=1:fps=60',boxblur=5:1" timelapse-line-prores-final-blur.mp4
+❯❯❯ ffmpeg -i timelapse-line-prores-final-blur.mp4 -filter:v "setpts=8.0\*PTS" timelapse-line-prores-blur-final.mp4
+```
+
+
+
