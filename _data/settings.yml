@@ -76,10 +76,10 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  # font_embed: '<link href="https://fonts.googleapis.com/css?family=VT323&display=swap":300,400,600,700" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=VT323&display=swap":300,400,600,700" rel="stylesheet">'
   # custom font in _basic.scss
-  title_font: '"jonnygrifff", Courier, monospace'
-  body_font: '"jonnygrifff", Courier, monospace'
+  title_font: '"Rajdhani", Courier, monospace'
+  body_font: '"Rajdhani", Courier, monospace'
   regular_weight: 400
   bold_weight: 600
   site_title:
